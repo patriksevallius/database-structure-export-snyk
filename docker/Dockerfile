@@ -1,4 +1,4 @@
-FROM tomcat:8.5.21
+FROM tomcat:8.5.92
 
 ADD platform.war /usr/local/tomcat/webapps
 
